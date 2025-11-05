@@ -7,7 +7,7 @@
   <div align="left">
   <a href="https://www.linkedin.com/in/ericasrafael" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:ericasrafael@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href = "https://www.instagram.com/ericas.http/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-de2b6d?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>      
+  <a href = "https://www.instagram.com/erica.http/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-de2b6d?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>      
    </div>
    
 
